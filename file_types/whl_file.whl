@@ -1,0 +1,7 @@
+wheel file can be used to package your project so that the other users can download and install your python projects.
+
+pre_requisites installed:
+    pip
+    python
+    setuptools: $pip install setuptools
+    wheel: $pip insatll wheel
